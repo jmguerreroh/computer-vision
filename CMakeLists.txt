@@ -159,8 +159,9 @@ add_cv_example(12_region_descriptors/12_03_convex_hull)
 # --- 13 Keypoints --------------------------------------------------------------
 add_cv_example(13_keypoints/13_01_harris_corners)
 add_cv_example(13_keypoints/13_02_shi_tomasi_corners)
-add_cv_example(13_keypoints/13_03_orb_features)
-add_cv_example(13_keypoints/13_04_ransac_matching)
+add_cv_example(13_keypoints/13_03_sift_features)
+add_cv_example(13_keypoints/13_04_orb_features)
+add_cv_example(13_keypoints/13_05_ransac_matching)
 
 # --- 14 Camera geometry and calibration ----------------------------------------
 add_cv_example(14_camera_calibration/14_01_camera_calibration)

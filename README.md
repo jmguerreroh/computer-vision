@@ -47,7 +47,7 @@ chapter and its code.
 | 10 | `10_region_segmentation` | Region segmentation | threshold, connected components, color segmentation |
 | 11 | `11_morphological_operations` | Morphological operations | erode/dilate, opening/closing, gradient, hit-or-miss, skeletonization, flood fill, top-hat illumination, distance + watershed |
 | 12 | `12_region_descriptors` | Region descriptors | region moments, Hu moments, convex hull |
-| 13 | `13_keypoints` | Keypoints | Harris, Shi-Tomasi, ORB, RANSAC matching |
+| 13 | `13_keypoints` | Keypoints | Harris, Shi-Tomasi, SIFT, ORB, RANSAC matching |
 | 14 | `14_camera_calibration` | Camera geometry and calibration | chessboard calibration, pose estimation (PnP), stereo calibration + rectification |
 | 15 | `15_3d_and_point_clouds` | 3D vision and point clouds | epipolar geometry, disparity, disparity to point cloud, OpenCV ICP, PCL I/O, visualizers, PCL ICP, RANSAC model fitting, registration, correspondence, plane + clustering |
 | 16 | `16_optical_flow_and_tracking` | Optical flow and tracking | frame difference, Lucas-Kanade, Farneback dense flow, background subtraction, Kalman tracking, object tracking |

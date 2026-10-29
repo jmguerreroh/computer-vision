@@ -131,8 +131,9 @@ data/pcl_data/result_*.pcd
 /*/12_03_convex_hull/12_03_convex_hull
 /*/13_01_harris_corners/13_01_harris_corners
 /*/13_02_shi_tomasi_corners/13_02_shi_tomasi_corners
-/*/13_03_orb_features/13_03_orb_features
-/*/13_04_ransac_matching/13_04_ransac_matching
+/*/13_03_sift_features/13_03_sift_features
+/*/13_04_orb_features/13_04_orb_features
+/*/13_05_ransac_matching/13_05_ransac_matching
 /*/14_01_camera_calibration/14_01_camera_calibration
 /*/14_02_pose_estimation/14_02_pose_estimation
 /*/14_03_stereo_calibration/14_03_stereo_calibration
